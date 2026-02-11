@@ -1,0 +1,14 @@
+.linguistique {
+    background-color: black;
+    color: white;
+}
+
+.intro {
+    border: 10px solid teal;
+}
+
+h2.presentation {
+    color: pink;
+    font-size: 2rem;
+    text-align: center;
+}
